@@ -23,4 +23,4 @@ magic(6)
 installed.packages()
 
 
---operadores--
+
