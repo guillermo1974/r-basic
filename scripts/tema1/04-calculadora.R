@@ -1,21 +1,46 @@
- # Operadores
+# OPERADORES MATEMEATICOS
 
-#sqrt(numero) : raiz
+#sqrt(x) : raiz
 
-#exp(numero) : exponencial
+#exp(x) : exponencial
 
-#log(numermo) : logaritmo
+#log(x) : logaritmo
 
-#log10(numero) : logaritmo en base 10
+#log10(x) : logaritmo en base 10
 
-#log(numero, base) : logaritmo en con base distinta a 10
+#log(x, a) : logaritmo en con base a de x
 
-#abs(+ o - numero) : valor absoluto no tiene cuenta del signo
+#abs(+ o - x) : valor absoluto no tiene cuenta del signo
 
-#factorial(numero) : factorial 
+#factorial(x) : factorial 
 
 #choose (n,m) : binomial, formas de combinar m numeros extraidos de n  (m es subconjunto de n)
 
+# n*m : moltiplicacion
+
+# n/m : division
+
+# n^m : n elevado a la m
+
+#TRIGONOMETRIA EN RADIANTES
+
+#sin(x) : seno de x
+
+#cos(x) : coseno de x 
+
+#tan(x) : tangente de x
+
+#asin(x) : arcoseno de x
+
+#acos(x) : arcoseno de x
+
+#atan(x) : arcotangente de x
+
+# NORMALIZAR EN GRADOS
+
+# cos(x*pi/180)
+
+# asin(X) * 180 /pi
 
 
 2*(3+5/2)
