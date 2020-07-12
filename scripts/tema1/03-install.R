@@ -21,3 +21,6 @@ magic(6)
 # installed.packages() : lista todos los paquetes instalados
 
 installed.packages()
+
+
+--operadores--
