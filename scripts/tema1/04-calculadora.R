@@ -1,3 +1,23 @@
+ # Operadores
+
+#sqrt(numero) : raiz
+
+#exp(numero) : exponencial
+
+#log(numermo) : logaritmo
+
+#log10(numero) : logaritmo en base 10
+
+#log(numero, base) : logaritmo en con base distinta a 10
+
+#abs(+ o - numero) : valor absoluto no tiene cuenta del signo
+
+#factorial(numero) : factorial 
+
+#choose (n,m) : binomial, formas de combinar m numeros extraidos de n  (m es subconjunto de n)
+
+
+
 2*(3+5/2)
 
 2*((3+5)/2)
