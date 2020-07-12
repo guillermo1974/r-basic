@@ -1,3 +1,5 @@
+--instalar paquetes
+
 install.packages("tidyverse", dep = TRUE)
 
 library(tidyverse)
