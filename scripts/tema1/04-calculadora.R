@@ -40,7 +40,21 @@
 
 # cos(x*pi/180)
 
-# asin(X) * 180 /pi
+# asin(X) * 180 /pi4
+
+# NUMEROS EN COMA FLOTANTE
+
+#print(x,n) : muestra las n cifras significativas de x
+
+#rount(x,n) : redondea a n cifras significativas
+
+#floor(x) : parte entera por defecto de x
+
+#ceiling(x) : parte entera por exceso de x
+
+#trunc(x) : parte entera de x, elimina parte decimal
+
+
 
 # EJEMPLOS
 
