@@ -4,6 +4,10 @@
 # sintaxis:
 # nombre variable =  valor asignado a la variable
 
+# nombre variable ->  valor asignado a la variable
+
+# valor asignado a la variable <-  nombre variable
+
 
 x = (pi^2)/2
 x
