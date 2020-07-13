@@ -1,3 +1,10 @@
+# Variables
+
+# crear una variable:
+# sintaxis:
+# nombre variable =  valor asignado a la variable
+
+
 x = (pi^2)/2
 x
 
