@@ -1,5 +1,9 @@
 # Funciones
 
+# crear una funcion:
+# sintaxis:
+# nombre funcion =  function(variable/es){funciòn}
+
 
 ## Función f(x) = x^3 - (3^x)* sen(x)
 f = function(x) {
