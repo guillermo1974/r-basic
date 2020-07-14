@@ -48,7 +48,7 @@
 
 print(sqrt(10),10)
 
-#rount(x,n) : redondea a n cifras significativas
+#round(x,n) : redondea a n cifras significativas
 
 #floor(x) : parte entera por defecto de x
 
