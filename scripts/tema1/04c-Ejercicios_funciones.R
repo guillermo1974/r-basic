@@ -37,6 +37,3 @@ opBasic = function(x,y){
 
 opBasic(4,5)
 
-
-
-
